@@ -1,0 +1,2 @@
+model_checkpoint_path: "alphmodel.ckpt"
+all_model_checkpoint_paths: "alphmodel.ckpt"

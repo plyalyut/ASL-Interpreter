@@ -1,0 +1,36 @@
+{
+  "name": "tripinoServer",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "apn": "*",
+    "async": "*",
+    "browserify": "^14.4.0",
+    "crypto": "*",
+    "ejs": "^2.5.7",
+    "express": "^3.2.6",
+    "express-react-engine": "*",
+    "fluent-ffmpeg": "*",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "handlebars": "*",
+    "jquery": "^3.3.1",
+    "libxmljs": "*",
+    "mongoose": "~3.8",
+    "mongoose-auto-increment": "*",
+    "mysql": "*",
+    "python-shell": "^0.4.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "video.js": "^6.1.0",
+    "eslint-plugin-react": "*"
+  }
+}

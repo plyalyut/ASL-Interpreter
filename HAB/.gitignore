@@ -1,0 +1,16 @@
+/public/ts/*
+/private/*
+/node_modules/*
+/temp/*
+/uploads/*
+/old\ certification/*
+
+aps_cert.pem
+
+aps_developer_cert.cer
+aps_developer_cert.pem
+aps_developer_key.p12
+aps_developer_key.pem
+aps_key.pem
+Cert.cer
+key.p12
