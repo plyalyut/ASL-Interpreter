@@ -19,7 +19,7 @@
     "handlebars": "*",
     "jquery": "^3.3.1",
     "libxmljs": "*",
-    "mongoose": "~3.8",
+    "mongoose": "~4.13",
     "mongoose-auto-increment": "*",
     "mysql": "*",
     "python-shell": "^0.4.0",
