@@ -15,7 +15,7 @@
     "express-react-engine": "*",
     "fluent-ffmpeg": "*",
     "guid": "0.0.12",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "handlebars": "*",
     "jquery": "^3.3.1",
     "libxmljs": "*",
