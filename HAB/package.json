@@ -11,7 +11,7 @@
     "browserify": "^14.4.0",
     "crypto": "*",
     "ejs": "^2.5.7",
-    "express": "^3.2.6",
+    "express": "^4.18.2",
     "express-react-engine": "*",
     "fluent-ffmpeg": "*",
     "guid": "0.0.12",
